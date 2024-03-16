@@ -1,5 +1,5 @@
 # All_projects_ALML
-This repository contains projects for the below topics covered during the course
+This repository contains projects for the below topics covered during post graduation program in AI and ML
 ## 1.Introduction to Python 
 ## 2.Applied Statistics - Descriptive , Inferential Statistics , Sampling and hypothesis testing
 ## 3.Supervised Learning - Linear regression , Classifiers, support vector machines
